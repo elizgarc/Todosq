@@ -1,3 +1,12 @@
+
+<img width="950" alt="Screen Shot 2022-05-24 at 4 44 22 AM" src="https://user-images.githubusercontent.com/98338136/170003757-bbd1bd92-b39e-4c04-99da-543c1eabf441.png">
+
+
+# Description 
+
+This assignment from Week 14 in the bootcamp with MIT, allowed the students to create a To Do List. The assignment was primarily done with React, JavaScript and CSS. It provides a set of function such as add, delete or mark as completed when you are donr with a task. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
