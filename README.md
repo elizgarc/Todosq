@@ -4,7 +4,7 @@
 
 # Description 
 
-This assignment from Week 14 in the bootcamp with MIT, allowed the students to create a To Do List. The assignment was primarily done with React, JavaScript and CSS. It provides a set of function such as add, delete or mark as completed when you are donr with a task. 
+This assignment from Week 14 in the bootcamp with MIT, allowed the students to create a To Do List. The assignment was primarily done with React, JavaScript and CSS. It provides a set of function such as add, delete or mark as completed when you are done with a task. 
 
 
 # Getting Started with Create React App
